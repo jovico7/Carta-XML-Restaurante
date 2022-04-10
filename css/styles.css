@@ -1,0 +1,221 @@
+html {
+    font-size: 16px;
+}
+
+
+/* Redimensión de fuente utilizando rem */
+
+p {
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.6rem;
+}
+
+h4 {
+    font-size: 1.3rem;
+}
+
+h5 {
+    font-size: 1.15rem;
+}
+
+h6 {
+    font-size: 1.05rem;
+}
+
+
+/**************************/
+
+
+/* clases predefinidas */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/template.jpg);
+}
+
+
+/* Clear floats after the columns */
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/* Diseño de columnas */
+
+.column-1 {
+    width: 100%;
+    float: left;
+}
+
+.column-2 {
+    width: 50%;
+    float: left;
+    margin-right: 35%;
+}
+
+.column-3 {
+    width: 33.33%;
+    float: left;
+}
+
+.column-4 {
+    width: 25%;
+    float: left;
+}
+
+.column-5 {
+    width: 20%;
+    float: left;
+}
+
+.column-6 {
+    width: 16.66%;
+    float: left;
+}
+
+
+/* Otras clases */
+
+.titulo {
+    font-family: 'Dancing Script', cursive;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    animation-duration: 2s;
+    animation-name: growup;
+}
+
+.texto {
+    font-family: 'Lora', serif;
+}
+
+img {
+    height: 70vh;
+    object-fit: cover;
+    /* Para que la imagen se vea bien */
+}
+
+.nombre {
+    font-size: 12px;
+}
+
+.descripcion {
+    color: grey;
+    font-size: 10px;
+}
+
+.rowprincipal {
+    margin: 5% 15%;
+    background-color: rgb(255, 251, 203);
+    box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 15px 5px rgba(255, 254, 255, 0);
+    border: 5px solid rgb(236, 183, 99);
+    border-radius: 40px;
+}
+
+.rowinterno {
+    margin: 0 0%;
+    width: 50%;
+    float: left;
+    /* El float left ordena los objetos de izquierda a derecha */
+}
+
+.svg {
+    width: 12px;
+    height: 12px;
+    margin-top: -10%;
+    margin-right: 1%;
+}
+
+.svg2 {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 5%;
+}
+
+ul {
+    padding-left: 0rem;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.derecha {
+    float: right;
+}
+
+.oculto {
+    display: none;
+}
+
+.fuentetitulo {
+    font-family: 'Lora', serif;
+    outline: 7px ridge rgb(236, 183, 99);
+    outline-offset: 0px;
+    margin-bottom: 5%;
+}
+
+.fuentetitulo:hover {
+    font-family: 'Lora', serif;
+    outline: 10px ridge rgb(236, 183, 99);
+    outline-offset: 0px;
+    margin-bottom: 5%;
+}
+
+@media (max-width: 800px) {
+    .fuentetitulo {
+        font-family: 'Lora', serif;
+        outline: 7px ridge rgb(236, 183, 99);
+        outline-offset: 0px;
+        margin-bottom: 15%;
+        margin-top: 5%;
+    }
+    .fuentetitulo:hover {
+        font-family: 'Lora', serif;
+        outline: 10px ridge rgb(236, 183, 99);
+        outline-offset: 0px;
+        margin-bottom: 15%;
+    }
+    /* Para que la lista de Alérgenos se vea bien */
+    .column-3 {
+        width: 100%;
+        float: left;
+        margin-left: 0%;
+    }
+    .texto {
+        font-family: 'Lora', serif;
+        padding-left: 5%;
+    }
+    .svg2 {
+        width: 20px;
+        height: 20px;
+        float: left;
+        margin-right: 10%;
+    }
+}
+
+@keyframes growup {
+    from {
+        font-size: 1rem;
+    }
+    to {
+        font-size: 3rem;
+    }
+}

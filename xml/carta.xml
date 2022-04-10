@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <!-- Plato 1 -->
+    <plato tipo="TAPITAS">
+        <nombre>Bravas 3 salsas </nombre>
+        <descripcion>Bravas con salsa de ali-oli, salsa rosa y salsa brava.</descripcion>
+        <precio>6,50€</precio>
+        <calorias>867kcal</calorias>
+        <caracteristicas>
+            <caracteristica>huevos</caracteristica>
+            <caracteristica>picante</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 2 -->
+    <plato tipo="TAPITAS">
+        <nombre>Surtido de croquetas (jamón, pollo, cocido, setas y calamares en su tinta)</nombre>
+        <descripcion>Consideradas las mejores de Cataluña (sabor a escoger)</descripcion>
+        <precio>7,50€</precio>
+        <calorias>90kcal/u</calorias>
+        <caracteristicas>
+            <caracteristica>carne</caracteristica>
+            <caracteristica>lacteo</caracteristica>
+            <caracteristica>huevos</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 3 -->
+    <plato tipo="TAPITAS">
+        <nombre>Tabla de foie con tostas y salsa de frutos rojos</nombre>
+        <descripcion>Tabla de foie gras de pato del valle del río Dordoña con surtido de tostas normales integrales o con arándanos, acompañado con una salsa de frutos rojos que contiene frambuesas y granadas.</descripcion>
+        <precio>12,50€</precio>
+        <calorias>579kcal</calorias>
+        <caracteristicas>
+            <caracteristica>gluten</caracteristica>
+            <caracteristica>vegano</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 4 -->
+    <plato tipo="TAPITAS">
+        <nombre>Calamares a la romana</nombre>
+        <descripcion>Aros y patas de calamares rebozados en aceite de girasol.</descripcion>
+        <precio>9,50€</precio>
+        <calorias>103kcal</calorias>
+        <caracteristicas>
+            <caracteristica>huevos</caracteristica>
+            <caracteristica>pescado</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 5 -->
+    <plato tipo="TAPITAS">
+        <nombre>Pulpo al horno a la murciana</nombre>
+        <descripcion>Pequeños trozos de pulpo servidos en tacos generosos con pimentón y su característico contraste de texturas</descripcion>
+        <precio>8,50€</precio>
+        <calorias>86kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica>pescado</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 6 -->
+    <plato tipo="TAPITAS">
+        <nombre>Alitas de pollo al curry</nombre>
+        <descripcion>Alitas de pollo de corral envueltos en el delicioso sabor del curry.</descripcion>
+        <precio>4,50€</precio>
+        <calorias>120kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica>picante</caracteristica>
+            <caracteristica>carne</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 7 -->
+    <plato tipo="TAPITAS">
+        <nombre>Panceta con mermelada de cereza</nombre>
+        <descripcion>Panceta cocinada a muy baja temperatura rociada con su específica mermelada de cereza</descripcion>
+        <precio>7,50€</precio>
+        <calorias>818kcal</calorias>
+        <caracteristicas>
+            <caracteristica>carne</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 8 -->
+    <plato tipo="PLATOS">
+        <nombre>Huevos revueltos con Jamón Ibérico</nombre>
+        <descripcion>Huevos rotos con patatas fritas y lonchas de jamón ibérico revueltas (ñam ñam)</descripcion>
+        <precio>10€</precio>
+        <calorias>382kcal</calorias>
+        <caracteristicas>
+            <caracteristica>huevos</caracteristica>
+            <caracteristica>carne</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 9 -->
+    <plato tipo="PLATOS">
+        <nombre>Callos a la madrileña</nombre>
+        <descripcion>Plato de tripa guisado, cocinado lentamente durante horas a fuego lento, especialidad de la cocina española</descripcion>
+        <precio>9€</precio>
+        <calorias>177kcal</calorias>
+        <caracteristicas>
+            <caracteristica>carne</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 10 -->
+    <plato tipo="PLATOS">
+        <nombre>Mejillones al vapor</nombre>
+        <descripcion>Mejillones de la ría completamente limpios, una especialidad de la gastronomía Gallega </descripcion>
+        <precio>5,50€</precio>
+        <calorias>80kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica>marisco</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 11 -->
+    <plato tipo="PLATOS">
+        <nombre>Entrecot con patatas fritas</nombre>
+        <descripcion>Carne recién cocinada acompañada de unas buenas patatas, el mejor plato para saciar el apetito.</descripcion>
+        <precio>5,50€</precio>
+        <calorias>80kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica>carne</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 12 -->
+    <plato tipo="PLATOS">
+        <nombre>Tortilla de patatas</nombre>
+        <descripcion>El famoso plato de la tortilla, en el mejor punto y con una buena porción de cebolla.</descripcion>
+        <precio>4,50€</precio>
+        <calorias>120kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica>huevos</caracteristica>
+            <caracteristica>gluten</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 13 -->
+    <plato tipo="PLATOS">
+        <nombre>Sepia a la plancha</nombre>
+        <descripcion>Sepia fresca muy bien cuidada, provinente del este.</descripcion>
+        <precio>10,50€</precio>
+        <calorias>120kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica>pescado</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 14 -->
+    <plato tipo="PLATOS">
+        <nombre>Caracoles a la madrileña</nombre>
+        <descripcion>Caracoles acompañados con jamón, cebolla y chorizo, rociados con salsa de tomate.</descripcion>
+        <precio>10,50€</precio>
+        <calorias>120kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica></caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 15 -->
+    <plato tipo="PLATOS">
+        <nombre>Rabo de toro</nombre>
+        <descripcion>Rabo de toro estofado al punto y al vino tinto.</descripcion>
+        <precio>15,50€</precio>
+        <calorias>217kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica>carne</caracteristica>
+        </caracteristicas>
+    </plato>
+     <!-- Plato 15 -->
+    <plato tipo="PASTAS">
+        <nombre>Espaguetis</nombre>
+        <descripcion>A la carbonara o a la boloñesa, también acompañados de una pequeña ración de queso.</descripcion>
+        <precio>7,50€</precio>
+        <calorias>157kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica>lacteo</caracteristica>
+            <caracteristica>carne</caracteristica>
+            <caracteristica>gluten</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 16 -->
+    <plato tipo="PASTAS">
+        <nombre>Ensalada de pasta con orégano</nombre>
+        <descripcion>Pasta acompañada de una rica ensalada aliñada junto con cebolla y tomate.</descripcion>
+        <precio>8,50€</precio>
+        <calorias>130kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica>vegano</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 17 -->
+    <plato tipo="PASTAS">
+        <nombre>Macarrones a la boloñesa y pollo rebozado</nombre>
+        <descripcion>Unos ricos macarrones a la boloñesa y con queso, junto a un filete de pollo rebozado.</descripcion>
+        <precio>8,50€</precio>
+        <calorias>320kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica>carne</caracteristica>
+            <caracteristica>gluten</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 18 -->
+    <plato tipo="POSTRES">
+        <nombre>Arroz con leche a la canela</nombre>
+        <descripcion>Arroz rociado con leche y decorado con crema y limón</descripcion>
+        <precio>3€</precio>
+        <calorias>120kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica>lacteo</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 19 -->
+    <plato tipo="POSTRES">
+        <nombre>Flan con crema de caramelo</nombre>
+        <descripcion>El típico flan repleto de crema de caramelo por encima.</descripcion>
+        <precio>2,85€</precio>
+        <calorias>145kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica>huevos</caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 20 -->
+    <plato tipo="POSTRES">
+        <nombre>Crema catalana</nombre>
+        <descripcion>Postre típico y tradicional de la cocina catalana, hecho con leche, huevos y azúcar, que se presenta con una capa de azúcar quemado por encima.</descripcion>
+        <precio>3€</precio>
+        <calorias>217kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica></caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 21 -->
+    <plato tipo="VINOS">
+        <nombre>Vino de la casa</nombre>
+        <descripcion>Suave vino típico de la casa</descripcion>
+        <precio>3,85€</precio>
+        <calorias>82kcal/100g</calorias>
+        <caracteristicas>
+            <caracteristica></caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 22 -->
+    <plato tipo="VINOS">
+        <nombre>Vino blanco</nombre>
+        <descripcion></descripcion>
+        <precio>1,85€</precio>
+        <calorias>90kcal/100g/L</calorias>
+        <caracteristicas>
+            <caracteristica></caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 22 -->
+    <plato tipo="VINOS">
+        <nombre>Vino tinto</nombre>
+        <descripcion></descripcion>
+        <precio>3€</precio>
+        <calorias>80kcal/100g/L</calorias>
+        <caracteristicas>
+            <caracteristica></caracteristica>
+        </caracteristicas>
+    </plato>
+    <!-- Plato 22 -->
+    <plato tipo="VINOS">
+        <nombre>Vino rosado</nombre>
+        <descripcion></descripcion>
+        <precio>2,50€</precio>
+        <calorias>90,5kcal/100g/L</calorias>
+        <caracteristicas>
+            <caracteristica></caracteristica>
+        </caracteristicas>
+    </plato>
+    
+    <!-- Alérgenos -->
+    <plato tipo="ALERGENOS">
+        <caracteristicas>
+            <caracteristica>carne</caracteristica>
+            <caracteristica>gluten</caracteristica>
+            <caracteristica>huevos</caracteristica>
+            <caracteristica>lacteo</caracteristica>
+            <caracteristica>marisco</caracteristica>
+            <caracteristica>pescado</caracteristica>
+            <caracteristica>picante</caracteristica>
+            <caracteristica>vegano</caracteristica>
+        </caracteristicas>
+    </plato>
+    
+</menu>
